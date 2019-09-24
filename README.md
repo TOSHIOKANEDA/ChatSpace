@@ -1,4 +1,4 @@
-# README
+# DB構造
 
 ## groups_usersテーブル
 
@@ -10,6 +10,7 @@
 ### Association
 - belongs_to :group
 - belongs_to :user
+
 
 
 ## groupsテーブル
@@ -26,6 +27,7 @@
 - has_many :groups_users
 - has_many :users, through: groups_users
 - has_many :messages
+
 
 
 ## usersテーブル
