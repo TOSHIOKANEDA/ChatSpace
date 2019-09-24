@@ -49,7 +49,6 @@
 
 
 
-
 ## messagesテーブル
 
 |Column|Type|Options|
