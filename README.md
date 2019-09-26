@@ -112,6 +112,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> parent of 17d358d... Update README.md
@@ -121,6 +122,9 @@
 >>>>>>> parent of 17d358d... Update README.md
 =======
 >>>>>>> parent of 17d358d... Update README.md
+=======
+
+>>>>>>> parent of 62c5cc7... Update README.md
 ## messagesテーブル
 
 |Column|Type|Options|
