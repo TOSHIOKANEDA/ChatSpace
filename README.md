@@ -14,8 +14,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
 =======
@@ -38,8 +41,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
 =======
