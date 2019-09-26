@@ -67,6 +67,7 @@
 
 
 
+
 ## messagesテーブル
 
 |Column|Type|Options|
