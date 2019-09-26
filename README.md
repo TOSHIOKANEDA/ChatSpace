@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -24,6 +25,10 @@
 >>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
+=======
+
+
+>>>>>>> parent of 17d358d... Update README.md
 =======
 
 
@@ -48,6 +53,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -56,6 +62,10 @@
 >>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
+=======
+
+
+>>>>>>> parent of 17d358d... Update README.md
 =======
 
 
@@ -78,7 +88,10 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 17d358d... Update README.md
 =======
 >>>>>>> parent of 17d358d... Update README.md
 ## messagesテーブル
