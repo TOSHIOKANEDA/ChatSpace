@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -23,6 +24,10 @@
 >>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
+=======
+
+
+>>>>>>> parent of 17d358d... Update README.md
 ## groupsテーブル
 
 |Column|Type|Options|
@@ -42,6 +47,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -50,6 +56,10 @@
 >>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
+=======
+
+
+>>>>>>> parent of 17d358d... Update README.md
 ## usersテーブル
 
 |Column|Type|Options|
@@ -67,7 +77,10 @@
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 17d358d... Update README.md
 ## messagesテーブル
 
 |Column|Type|Options|
