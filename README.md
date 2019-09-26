@@ -12,8 +12,11 @@
 - belongs_to :user
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 ## groupsテーブル
 
 |Column|Type|Options|
@@ -30,8 +33,11 @@
 - has_many :messages
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 ## usersテーブル
 
 |Column|Type|Options|
