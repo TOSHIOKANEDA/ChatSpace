@@ -13,8 +13,11 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
 ## groupsテーブル
@@ -34,8 +37,11 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 1e01c05... Update README.md
 =======
 >>>>>>> parent of 1e01c05... Update README.md
 ## usersテーブル
