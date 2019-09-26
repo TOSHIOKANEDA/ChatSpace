@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## groups_usersテーブル
@@ -130,3 +131,5 @@
 ### Association
 - belongs_to :user
 - belongs_to :group
+=======
+>>>>>>> parent of 4157c3d... Update README.md
