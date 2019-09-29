@@ -8,9 +8,11 @@
           SAMPLE!
         .side-header__box__menu
           .side-header__box__menu__new-group
-          %span>= fa_icon 'edit'
+            = link_to "www.google.com" do
+              = fa_icon 'edit'
           .side-header__box__menu__edit-user
-          %span>= fa_icon 'cog'
+            = link_to "www.google.com" do
+              = fa_icon 'cog'
     .groups
       .group
         .group__group-name
@@ -45,21 +47,11 @@
     .form
       .new_message
         .input-box
-          .input-box__text
-            type a message
-          .input-box__image
-            = fa_icon 'image'
+          Write some
+          %label.upload-label{class: "upload-file"}
+            %i.fa.fa-picture-o
+            = file_field_tag :file, class: "upload-file__default"
+            
+    
         .submit-btn
           Send
-
-
-
-
-  -# <div class="flash-box">
-  -# </div>
-  -# <div class="wrapper">
-  -#   <div class="chat-side">
-  -#   </div>
-  -# </div>
-
--# ß
