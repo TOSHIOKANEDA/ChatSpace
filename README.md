@@ -18,14 +18,14 @@
 
  |Column|Type|Options|
 |------|----|-------|
-|group_name|string|null: false|
-|user_id|integer|null: false, foreign_key: true|
+|group_name|string|null: false, unique: true|
+|user_id|integer|null: false, foreign_key: true| <= 一度消します・・・
 |group_id|integer|null: false, foreign_key: true|
-|master_member|string|null: false|
+|master_member|string|null: false| <= 一度null: falseを中止します・・・
 |sub_member|string|null: true|
 ### Association
 - has_many :groups_users
-- has_many :users, through: groups_users
+- has_many :users, through: :groups_users
 - has_many :messages
 
 

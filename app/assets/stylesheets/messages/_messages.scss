@@ -3,6 +3,9 @@ $small_word_color: #999999;
 $head_height: 100px;
 
 
+* {
+  box-sizing: border-box; 
+}
 .flash-box {
   width: 100%;
   background-color: #38aef0;

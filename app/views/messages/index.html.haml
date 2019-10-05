@@ -1,29 +1,7 @@
-.flash-box
-  Hello
 .wrapper
   .chat-side
-    .side-header
-      .side-header__box
-        .side-header__box__user-name
-          SAMPLE!
-        .side-header__box__menu
-          .side-header__box__menu__new-group
-            = link_to "www.google.com" do
-              = fa_icon 'edit'
-          .side-header__box__menu__edit-user
-            = link_to "www.google.com" do
-              = fa_icon 'cog'
-    .groups
-      .group
-        .group__group-name
-          My project
-        .group__latest-message
-          Glad
-      .group
-        .group__group-name
-          Sample
-        .group__latest-message
-          まだメッセージがありません
+    = render partial: "shared/side_bar"
+
   .chat-main
     .main-header
       .main-header__left-box
